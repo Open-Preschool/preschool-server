@@ -1,5 +1,8 @@
 # PreschoolServer
 
+[![Tuple](https://img.shields.io/badge/Pairing%20with-Tuple-5A67D8)](https://tuple.app)
+
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
